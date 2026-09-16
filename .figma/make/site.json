@@ -1,0 +1,11 @@
+{
+  "title": "bittusorry",
+  "description": "Create a heartfelt web page to express apologies for missing a loved one's birthday, perfect for long-distance relationships to show care and connection.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
